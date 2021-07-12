@@ -27,7 +27,7 @@ $filmes = FilmesController::listarFavoritos();
 
     <div class="nav-header center">
 
-      <h1>CLOROCINEteste</h1>
+      <h1>CLOROCINE</h1>
 
     </div>      
       
